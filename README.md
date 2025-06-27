@@ -1,6 +1,6 @@
 # Go GiteeAI
 
-This library provides Go clients for [GiteeAI API](https://open.gitee.ai/). We support: 
+This library provides Go clients for [GiteeAI API](https://ai.gitee.com/). We support: 
 
 * Qwen2
 * DeepSeek
@@ -54,7 +54,7 @@ func main() {
 
 ### Getting a GiteeAI API Key:
 
-1. Visit the GiteeAI website at [https://open.gitee.ai/](https://open.gitee.ai/).
+1. Visit the GiteeAI website at [https://ai.gitee.com/](https://ai.gitee.com/).
 2. If you don't have an account, click on "Sign Up" to create one. If you do, click "Log In".
 3. Once logged in, navigate to your API key management page.
 4. Click on "Create new secret key".
